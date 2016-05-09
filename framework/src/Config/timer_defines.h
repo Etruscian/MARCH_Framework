@@ -1,0 +1,25 @@
+/*
+ * timer_defines.h
+ *
+ *  Created on: 19 Apr 2016
+ *      Author: Projectmarch
+ */
+
+#ifndef TIMER_DEFINES_H_
+#define TIMER_DEFINES_H_
+
+#include "xparameters.h"
+
+#define TIMER_DEVICE_ID 		XPAR_XSCUTIMER_0_DEVICE_ID
+#define INTC_DEVICE_ID			XPAR_SCUGIC_SINGLE_DEVICE_ID
+#define TIMER_IRPT_INTR			XPAR_SCUTIMER_INTR
+#define TIMER_LOAD_VALUE_10HZ	0x1FCA055
+#define TIMER_LOAD_VALUE_100HZ	0x32DCD5
+#define TIMER_LOAD_VALUE_1KHZ	0x51615
+#define TIMER_LOAD_VALUE_10KHZ	0x8235
+#define TIMER_LOAD_VALUE_20KHZ	0x411B
+
+
+
+
+#endif /* TIMER_DEFINES_H_ */

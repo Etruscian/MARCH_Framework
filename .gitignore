@@ -1,0 +1,15 @@
+#################
+## Ignore!
+#################
+# Eclipse garbage
+framework/Debug
+.cproject
+.project
+.metadata/
+
+# Other auto generated stuff we don't need
+MarsZX2_wrapper_hw_platform_0/
+RemoteSystemsTempFiles/
+standalone_bsp_0/
+MarsZX2_wrapper.hdf
+SDK.log
