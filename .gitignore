@@ -6,6 +6,7 @@ framework/Debug
 .cproject
 .project
 .metadata/
+webtalk/
 
 # Other auto generated stuff we don't need
 MarsZX2_wrapper_hw_platform_0/
